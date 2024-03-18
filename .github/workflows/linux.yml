@@ -18,8 +18,8 @@ jobs:
 
         include:
           - node: 12
-            gcc: "gcc-6"
-            gpp: "g++-6"
+            gcc: "gcc-8"
+            gpp: "g++-8"
             os: ubuntu-18.04
             arch: arm64
 
